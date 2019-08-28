@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Req type">9421ab74db6733008288af264896194b</item_parameter>
+        <screen display_value="By Request Type">449a4f05db2333008288af26489619c4</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 07:46:01</sys_created_on>
+        <sys_id>009a4f05db2333008288af26489619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9421ab74db6733008288af264896194b</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_009a4f05db2333008288af26489619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 07:46:01</sys_updated_on>
+        <ui_parameter display_value="Req type">4c9a4f05db2333008288af26489619c5</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
